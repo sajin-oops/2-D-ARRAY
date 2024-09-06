@@ -38,3 +38,15 @@ arr = np.array([1,2,3,4,5])
 print(arr)
 
 # - O/P [1 2 3 4 5]
+
+#2-D ARRAYS
+
+import numpy as np
+arr = np.array([[1,2,3],[4,5,6]])
+print(arr)
+
+#O/P -
+'''
+[[1 2 3]
+ [4 5 6]]
+'''
